@@ -1,4 +1,6 @@
 # StarbucksLandPage_-fallver-
+Created By: Jade Bell
+Personal Project: Septemeber 10 - Present
 
 Created Starbuck's Landing Web Page for their fall season's drinks!
 
